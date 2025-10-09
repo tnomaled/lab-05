@@ -2,16 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mason Delamont`
+- **CCID:** `mdleamon`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Android Developers - AlertDialog.Builder - [https://developer.android.com/reference/android/app/AlertDialog.Builder
+](url)
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+None
