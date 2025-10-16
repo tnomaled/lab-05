@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Mason Delamont`
-- **CCID:** `mdleamon`
+- **CCID:** `mdelamon`
 
 ## References and Resources
 
